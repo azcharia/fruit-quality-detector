@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+opencv-python
+scikit-learn
+joblib
+Pillow
+tensorflow
+tqdm
+matplotlib
+seaborn
+requests
