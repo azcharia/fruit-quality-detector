@@ -1,4 +1,5 @@
 # Fruit Quality Detector AI :apple:
+![License](https://img.shields.io/github/license/azcharia/fruit-quality-detector)
 
 Streamlit app for classifying fruit freshness using a CNN (MobileNetV2) and a Random Forest baseline.
 
